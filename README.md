@@ -135,7 +135,7 @@ The following supervised learning algorithms were developed and evaluated:
 
 The models were evaluated using:
 
--Accuracy
+- Accuracy
 
 - Precision
   
@@ -233,7 +233,7 @@ pip install -r requirements.txt
 jupyter notebook
 
 
-## **HoW TO RUN**
+## **HOW TO RUN**
 
 
 - Clone the repository.
